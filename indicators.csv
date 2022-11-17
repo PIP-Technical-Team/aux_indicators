@@ -35,10 +35,9 @@ Country Profiles,NY.GDP.MKTP.KD.ZG,gdp_growth,GDP growth (annual %),0 - 100,0 - 
 Poverty Calculator,,mean,Mean,PPP $ units,PPP $ units,1,2,"Survey mean/average consumption or income per capita, total population (2011 PPP $ per day)",The mean is the average monthly household per capita income or consumption expenditure from the survey in 2011 PPP.,,other,FALSE,2011 PPP $,,,inequality,,
 Poverty Calculator,,median,Median,PPP $ units,PPP $ units,1,2,"Survey median consumption or income per capita, total population (2011 PPP $ per day)",The median of monthly household per capita income or consumption expenditure from the survey in 2011 PPP.,,other,FALSE,2011 PPP $,,,inequality,,
 ,,cpi,CPI,,,,,,,,,,,,,AuxiliaryData,2010,2018
-,,CurrencyConversion,CurrencyConversion,,,,,,,,,,,,,AuxiliaryData,2010,2018
 ,,gdp,GDP,,,,,,,,,,,,,AuxiliaryData,2010,2018
 ,,PCE,PCE,,,,,,,,,,,,,AuxiliaryData,2010,2018
-,,Population,Population,,,,,,,,,,,,,AuxiliaryData,2010,2018
+,,pop,Population,,,,,,,,,,,,,AuxiliaryData,2010,2018
 ,,SurveyInfo_Id,SurveyInfo Id,,,,,,,,,,,,,,,
 ,,Metadata,Metadata,,,,,,,,,,,,,,,
 Country Profiles,,median_income_growth,Median income growth,as is (-100 to 100),as is,1,2,Median income growth (annual %),"Median income growth is the annualized growth of the survey median household per capita income (or consumption expenditure) in 2011 PPP, of the entire population.",,,FALSE,,,,,,
