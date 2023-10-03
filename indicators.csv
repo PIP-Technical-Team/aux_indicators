@@ -42,5 +42,4 @@ Poverty Calculator,,median,Median,PPP $ units,PPP $ units,1,2,"Survey median con
 ,,Metadata,Metadata,,,,,,,,,,,,,,,
 Country Profiles,,median_income_growth,Median income growth,as is (-100 to 100),as is,1,2,Median income growth (annual %),"Median income growth is the annualized growth of the survey median household per capita income (or consumption expenditure) in {#PPP_Year} PPP, of the entire population.",,,FALSE,,,,,,
 Country Profiles,,shared_prosperity_premium,Shared Prosperity Premium,as is (-100 to 100),as is,1,2,Shared Prosperity Premium  (annual %),"Shared Prosperity Premium measures the difference in annualized growth of the bottom 40%, shared prosperity, and the annualized growth of the entire population or distribution.",,,FALSE,,,,,,
-Poverty Calculator,,spl,Societal poverty line,units,units,1,2,,,,other,FALSE,$,,,other,,
 Poverty Calculator,,spr,Societal poverty rate,0 - 1,percent,100,2,,,,other,FALSE,%,,,other,,
